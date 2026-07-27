@@ -1,7 +1,7 @@
 # 🤖 Sorobóticos
 
 <p align="center">
-  <img src="./Assets/ourTeam.jpg" alt="Equipe Sorobóticos" width="900">
+  <img src="./Assets/fullteam.jpeg" alt="Equipe Sorobóticos" width="900">
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@ Nosso robô foi desenvolvido para competir na categoria **Soccer Lightweight**, 
 # 📸 Nossa Equipe
 
 <p align="center">
-  <img src="./Assets/fullteam.jpeg" alt="Equipe Sorobóticos" width="600">
+  <img src="./Assets/ourTeam.jpg" alt="Equipe Sorobóticos" width="600">
 </p>
 
 ---
